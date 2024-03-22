@@ -14,6 +14,6 @@
     }
   ],
   "env": {
-    "CONFIG": "https://raw.githubusercontent.com/bincooo/single-proxy/main/config.yaml"
+    "CONFIG": "https://raw.githubusercontent.com/zgm0407/single-proxy/main/config.yaml"
   }
 }
